@@ -1,5 +1,5 @@
 // Loop While | looping indefinido, enquanto a consição for verdadeira, o mesmo continua executando
-/*
+
 let contador = 0
 
 while (contador <= 100){
@@ -7,10 +7,10 @@ while (contador <= 100){
     contador++
 }
 console.log("Condição ficou false")
-*/
+
 
 //5! = 5*4*3*2*1
-/*
+
 let n = 10
 let fat = 1
 
@@ -20,4 +20,3 @@ while (n >=1){
     console.log(fat)
 }
 console.log("Fora do looping")
-*/
